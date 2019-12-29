@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Merienda');
+
+body {
+	font-family: 'Merienda', cursive;
+	background-image: url("../img/001.png");
+	background-size: 100% 130%;
+}
+
+.msg {
+	background-color: rgba(185, 222, 242, 0.47);
+	text-align: center;
+	border-radius: 20px;
+	width: 450px;
+	height: 130px;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%,-50%);
+}
+#fileIn:hover {
+	cursor: pointer;
+	color: #1f4b67;
+}
+#info {
+	font-size: x-large;
+}
