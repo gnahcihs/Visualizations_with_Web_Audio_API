@@ -10,7 +10,7 @@ Download the files directly, you can modify **js/bubble.js** to create your visu
 
 ## Demo
 
-[Click Here!](https://gnahcihsuil.github.io/Visualizations_with_Web_Audio_API/)
+[Click Here!](https://gnahcihsuil.github.io/Visualizations_with_Web_Audio_API/) , for first time user, it may cost several time to load the website.
 ![sunnyday](img/sunnyday.gif)
 
 ## Reference
