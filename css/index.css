@@ -4,6 +4,10 @@ body {
 	font-family: 'Merienda', cursive;
 	background-image: url("../img/001.png");
 	background-size: 100% 130%;
+    -ms-overflow-style: none;
+    height: 100%;
+    width: calc(100vw + 18px);
+    overflow: auto;
 }
 
 .msg {
@@ -23,4 +27,12 @@ body {
 }
 #info {
 	font-size: x-large;
+}
+html {
+    overflow: -moz-hidden-unscrollable;
+    height: 100%;
+}
+
+body::-webkit-scrollbar {
+    display: none;
 }
