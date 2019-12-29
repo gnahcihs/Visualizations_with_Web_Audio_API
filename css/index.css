@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Merienda');
+@import url('https://fonts.googleapis.com/css?family=Ma+Shan+Zheng|Merienda&display=swap');
 
 body {
-	font-family: 'Merienda', cursive;
+	font-family: 'Merienda','Ma Shan Zheng', cursive;
 	background-image: url("../img/001.png");
 	background-size: 100% 130%;
     -ms-overflow-style: none;
