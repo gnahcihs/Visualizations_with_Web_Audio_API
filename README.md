@@ -15,5 +15,5 @@ Download the files directly, you can modify **js/bubble.js** to create your visu
 
 ## Reference
 
-1. [Visualizations with Web Audio API](https://gnahcihsuil.github.io/Visualizations_with_Web_Audio_API/)
+1. [Visualizations with Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Visualizations_with_Web_Audio_API)
 
